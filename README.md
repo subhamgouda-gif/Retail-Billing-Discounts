@@ -50,3 +50,7 @@ START -> Read products and tax rates -> Calculate gross and bulk discounts
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://retail-billing-discounts-ntlnbfgwjappdmnhrnketbr.streamlit.app/
